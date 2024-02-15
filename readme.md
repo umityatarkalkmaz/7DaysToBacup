@@ -37,4 +37,4 @@ Eğer güvenlik endişeleriniz varsa veya sadece projeyi kendiniz derlemek istiy
 Bu adımları takip ederek, güvenlik uyarılarına maruz kalmadan ve güvenlik şüpheniz varsa, güvenlik yazılımlarınızı riske atmadan uygulamayı güvenle kullanabilirsiniz.
 
 ### Videolu anlatım
-[https://youtu.be/t4v6_USS3cY?si=K0U2gpJxR6D9_gG3](7 Days to die Save Yedekleme Aracım Hızlı ve Kolay | Mini Rehber Days)
+[7 Days to die Save Yedekleme Aracım Hızlı ve Kolay | Mini Rehber Days](https://youtu.be/t4v6_USS3cY?si=K0U2gpJxR6D9_gG3)
