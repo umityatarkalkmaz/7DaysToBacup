@@ -3,7 +3,7 @@
 ## Kurulum
 Bu aracı kullanabilmek için Python'un bilgisayarınızda yüklü olması gerekmektedir. Python kurulumu hakkında daha fazla bilgi için [Python'un resmi web sitesine](https://www.python.org/downloads/) göz atabilirsiniz.
 
-İsterseniz yayımlananlar arasından exe indirebilirsiniz.
+İsterseniz [yayımlananlar](https://github.com/umityatarkalkmaz/7DaysToBacup/releases/) arasından exe indirebilirsiniz.
 
 ## Güvenlik Uyarısı
 
