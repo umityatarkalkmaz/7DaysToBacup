@@ -65,7 +65,7 @@ Eğer güvenlik endişeleriniz varsa veya sadece projeyi kendiniz derlemek istiy
       Ayarları yaptıktan sonra Convert .py to .exe düğmesine tıklayın.
 
 5. **dist** veya **output** klasörünü açın ve **7DaysToBackup.exe** dosyasını bulun. Bu dosya, uygulamanızın EXE versiyonudur ve herhangi bir yükleme işlemine gerek kalmadan doğrudan çalıştırılabilir.
-   Bu adımları takip ederek, güvenlik uyarılarına maruz kalmadan ve güvenlik şüpheniz varsa, güvenlik yazılımlarınızı riske atmadan uygulamayı güvenle kullanabilirsiniz.
+   Bu adımları takip ederek, güvenlik uyarılarına maruz kalmadan ve güvenlik şüpheniz varsa, güvenliğinizi riske atmadan uygulamayı güvenle kullanabilirsiniz.
 
 ### Videolu anlatım
 
