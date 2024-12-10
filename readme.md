@@ -1,6 +1,9 @@
 # 7 Days To Die Save Yedekleme Aracı
+
 7 Days To Die için save dosyalarını yedekleme ve silme işlemlerinde kolaylık sağlar.
+
 ## Kurulum
+
 Bu aracı kullanabilmek için Python'un bilgisayarınızda yüklü olması gerekmektedir. Python kurulumu hakkında daha fazla bilgi için [Python'un resmi web sitesine](https://www.python.org/downloads/) göz atabilirsiniz.
 
 İsterseniz [yayımlananlar](https://github.com/umityatarkalkmaz/7DaysToBacup/releases/) arasından exe indirebilirsiniz.
@@ -20,45 +23,50 @@ Eğer güvenlik endişeleriniz varsa veya sadece projeyi kendiniz derlemek istiy
 3. Komut satırı veya terminal açın ve proje dizinine gidin.
 
 4. Build alma
-    1. PyInstaller'ı kullanarak EXE dosyasını oluşturun. Proje dizininde aşağıdaki komutları çalıştırın:
-    
-        a.PyInstaller'ı Kur
-        ```bash
-        pip install pyinstaller
-        ```
 
-        b.PyInstaller ile build al
+   1. PyInstaller'ı kullanarak EXE dosyasını oluşturun. Proje dizininde aşağıdaki komutları çalıştırın
 
-        ```bash
-        pyinstaller 7DaysToBackup.py -F -w 
-        ```
-        Bu komut, dist adında bir klasör içinde 7DaysToBackup.exe adında tek bir çalıştırılabilir dosya oluşturur.
+      1. PyInstaller'ı Kur
 
-    2. Auto-py-to-exe ile Build Oluşturma
+         ```bash
+         pip install pyinstaller
+         ```
 
-        a.Auto-py-to-exe'yi kurun:
-        ```bash
-        pip install auto-py-to-exe
-        ```
+      2. PyInstaller ile build al
 
-        b.Auto-py-to-exe'yi çalıştırın:
+         ```bash
+         pyinstaller 7DaysToBackup.py -F -w
+         ```
 
-        ```bash
-        auto-py-to-exe
-        ```
-        Açılan grafik arayüzde şu adımları takip edin:
-        
-        Script Location: 7DaysToBackup.py dosyasını seçin.
+         Bu komut, dist adında bir klasör içinde 7DaysToBackup.exe adında tek bir çalıştırılabilir dosya oluşturur.
 
-        Onefile: "One File" seçeneğini işaretleyin (Bu, tek bir EXE dosyası oluşturur).
+   2. Auto-py-to-exe ile Build Oluşturma
 
-        Window Based (hide the console): "Window Based" seçeneğini seçin (Bu, konsol penceresinin görünmesini engeller).
+      1. Auto-py-to-exe'yi kurun:
 
-        Ayarları yaptıktan sonra Convert .py to .exe düğmesine tıklayın.
+      ```bash
+      pip install auto-py-to-exe
+      ```
 
+      2. Auto-py-to-exe'yi çalıştırın:
 
-1. **dist** klasörünü veya **output** açın ve **7DaysToBackup.exe** dosyasını bulun. Bu dosya, uygulamanızın EXE versiyonudur ve herhangi bir yükleme işlemine gerek kalmadan doğrudan çalıştırılabilir.
-Bu adımları takip ederek, güvenlik uyarılarına maruz kalmadan ve güvenlik şüpheniz varsa, güvenlik yazılımlarınızı riske atmadan uygulamayı güvenle kullanabilirsiniz.
+      ```bash
+      auto-py-to-exe
+      ```
+
+      Açılan grafik arayüzde şu adımları takip edin:
+
+      Script Location: 7DaysToBackup.py dosyasını seçin.
+
+      Onefile: "One File" seçeneğini işaretleyin (Bu, tek bir EXE dosyası oluşturur).
+
+      Window Based (hide the console): "Window Based" seçeneğini seçin (Bu, konsol penceresinin görünmesini engeller).
+
+      Ayarları yaptıktan sonra Convert .py to .exe düğmesine tıklayın.
+
+5. **dist** klasörünü veya **output** açın ve **7DaysToBackup.exe** dosyasını bulun. Bu dosya, uygulamanızın EXE versiyonudur ve herhangi bir yükleme işlemine gerek kalmadan doğrudan çalıştırılabilir.
+   Bu adımları takip ederek, güvenlik uyarılarına maruz kalmadan ve güvenlik şüpheniz varsa, güvenlik yazılımlarınızı riske atmadan uygulamayı güvenle kullanabilirsiniz.
 
 ### Videolu anlatım
+
 [7 Days to die Save Yedekleme Aracım Hızlı ve Kolay | Mini Rehber Days](https://youtu.be/t4v6_USS3cY?si=K0U2gpJxR6D9_gG3)
